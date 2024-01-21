@@ -135,7 +135,7 @@ const Settings: React.FC<{closeNav, theme, setTheme, project, setProject}> =
                     }} >
                 <option value="plain">Stable Lean</option>
                 <option value="MathlibLatest">Latest Mathlib</option>
-                <option value="MIL">Mathematics_in_Lean</option>
+                <option value="MathematicsInLean">Mathematics in Lean</option>
                 <option value="DuperDemo">Latest Duper</option>
               </select>
             </p>
