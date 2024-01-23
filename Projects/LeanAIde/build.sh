@@ -18,7 +18,7 @@ curl -L https://raw.githubusercontent.com/siddhartha-gadgil/LeanAide/main/lean-t
 
 export OPENAI_API_KEY=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
 
-
+lake update -R
 lake exe cache get
 lake build mathlib
 lake build
